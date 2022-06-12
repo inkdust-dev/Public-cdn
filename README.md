@@ -8,8 +8,8 @@
 ## 如何加入?
 你只需要Fork该仓库，并在Fork的仓库内新建文件夹放入你的静态文件，不建议你放入HTML文件，因为提供的CDN有长时间的缓存。
 
-##调用
-主CDN:https://public-cdn.inkdust.top/[FOLDER_NAME]/[FILE_NAME]
+## 调用
+主CDN:https://public-cdn.inkdust.top/[FOLDER_NAME]/[FILE_NAME] <br>
 例如:https://public-cdn.inkdust.top/README.md
 
 ## 限制
