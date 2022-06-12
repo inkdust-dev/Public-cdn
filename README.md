@@ -10,7 +10,10 @@
 
 ## 调用
 主CDN:https://public-cdn.inkdust.top/[FOLDER_NAME]/[FILE_NAME] <br>
-例如:https://public-cdn.inkdust.top/README.md
+例如:https://public-cdn.inkdust.top/README.md <br>
+如果你想在中国大陆获取更好的热启动速度。<br>
+那么建议你使用:https://inkdust.wzwzx.cn/<br>
+例如:https://inkdust.wzwzx.cn/README.md
 
 ## 限制
 1.单文件大小需≤5MB，总提交文件大小需≤50MB。<br>
